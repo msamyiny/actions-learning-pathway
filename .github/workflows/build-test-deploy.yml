@@ -1,4 +1,4 @@
-name: hello-world
+name: build-next-app
 on: push
 jobs:
   hello-world-job:
